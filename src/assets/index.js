@@ -1,2 +1,9 @@
-export { default as HeroImg } from "./HeroImg.svg";
+export { default as HeroImg } from "./HeroImg.webp";
 export { default as Logo } from "./Logo.svg";
+export { default as AboutUsIMG } from "./About_Us_IMG.webp";
+export { default as Card1 } from "./Card1.webp";
+export { default as Card2 } from "./Card2.webp";
+export { default as Card3 } from "./Card3.webp";
+export { default as Card4 } from "./Card4.webp";
+export { default as Card5 } from "./Card5.webp";
+export { default as Card6 } from "./Card6.webp";
